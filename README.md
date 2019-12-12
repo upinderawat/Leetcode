@@ -2,6 +2,4 @@
 + Follow the given pattern for saving the solution
 	</br>**{Problem number}.{problem name}.{extension}**
 	</br>**Ex.** "62.unique-paths.py"
-+ Paste solution in Both directories
-	+ Practice/
-	+ Category/ (Depending on difficulty) 
++ Paste solution in *Practice* directory and it's correspoding link file in *Difficulty* directory.
